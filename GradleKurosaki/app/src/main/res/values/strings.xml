@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Build it Bigger</string>
+    <string name="app_main_label">Build it Bigger</string>
+    <string name="instructions">Yes, press the button for a joke!</string>
+    <string name="button_text">Tell a Joke</string>
+
+</resources>
